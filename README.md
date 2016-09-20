@@ -57,12 +57,6 @@ Any google-supported language's 2-letter abbreviation ([ISO 639-1](https://www.w
 * [google-search-autocomplete-cli](https://github.com/sotayamashita/google-search-autocomplete-cli) - CLI for this module.
 
 
-## References
-
-* [Update on the Autocomplete API](https://webmasters.googleblog.com/2015/07/update-on-autocomplete-api.html)
-* [Google Autocomplete API](http://shreyaschand.com/blog/2013/01/03/google-autocomplete-api/)
-
-
 ## License
 
 MIT © Sota Yamashita
