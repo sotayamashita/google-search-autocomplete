@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "description": "Google search autocomplete",
   "repository": "sotayamashita/google-search-autocomplete",
-  "license": {
-    "type": "MIT",
-    "url" :"https://sotayamashita.mit-license.org/"
-  },
+  "license": "MIT",
   "author": {
     "name": "Sota Yamashita",
     "url": "github.com/sotayamashita"
