@@ -21,9 +21,9 @@ $ npm install sotayamashita/google-search-autocomplete --save-dev
 ## Usage
 
 ```javascript
-const gsa = require('google-search-autocomplete');
+const googleSearchAutocomplete = require('google-search-autocomplete');
 
-gsa('query').then(suggestions => {
+googleSearchAutocomplete('query').then(suggestions => {
    console.log(suggestions);
    // => [{ name: 'hogle zoo', relevance: 566 }, ...]
 });
